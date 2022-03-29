@@ -1,0 +1,8 @@
+package matricula;
+
+public class matricula {
+	private String curso;
+	private String semestre;
+	private String disciplina;
+
+}

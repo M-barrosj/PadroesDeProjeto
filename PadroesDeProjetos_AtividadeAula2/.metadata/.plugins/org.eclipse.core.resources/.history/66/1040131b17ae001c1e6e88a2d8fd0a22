@@ -1,0 +1,18 @@
+package matricula;
+
+public class matricula {
+	private String curso;
+	private String semestre;
+	private String disciplina;
+	public matricula(String curso, String semestre, String disciplina) {
+		
+		super();
+		this.curso = curso;
+		this.semestre = semestre;
+		this.disciplina = disciplina;
+	
+
+}
+	
+		
+	}

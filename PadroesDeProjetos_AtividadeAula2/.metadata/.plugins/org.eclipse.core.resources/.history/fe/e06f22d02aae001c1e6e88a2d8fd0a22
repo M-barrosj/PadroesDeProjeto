@@ -1,0 +1,6 @@
+package matriculaInterface;
+
+public interface IfazerMatricula {
+	
+
+}

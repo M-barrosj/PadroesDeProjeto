@@ -1,0 +1,14 @@
+package matricula;
+
+public class aluno extends Pessoa {
+	
+	String matricula;
+
+	public aluno(String nome, String cpf, String endereco, String telefone) {
+		super(nome, cpf, endereco, telefone);
+		
+	}
+	
+	
+
+}

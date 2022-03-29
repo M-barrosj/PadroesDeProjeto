@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+D:\Biblioteca\IF\5ª Período\Padrões de Projeto\AULA 2\Padrões de Projetos - Atividade aula 2\.metadata\.plugins\org.eclipse.jdt.core
+3220371556.index
